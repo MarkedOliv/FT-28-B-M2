@@ -1,0 +1,3 @@
+Framework: Es como un conjunto de herramientas especificas para facilitar el trabajo funcionando como un tipo de plantilla.
+Preprocesador: Es una herramienta que agrega nuevas funcionalidades a el lenguaje en cuestion y funciona como traductor para ahorrar lineas de codigo.
+Responsive Website: le llamamos sitio responsivo cuando este se adapta a diferentes dispositivos con diferentes resoluciones de pantalla.
