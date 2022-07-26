@@ -1,0 +1,20 @@
+.input{
+    border-radius: 8px;
+    border: 1px solid rgba(183, 183, 183, 0.728);
+    margin-right: 15px;
+    padding: 4px;
+}
+
+.addButton{
+    background-color:rgb(35, 167, 59);
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+    margin-left: 15px;
+    padding:8px 12px;
+    text-align: center;
+}
+.addButton:hover{
+    background-color: white;
+    color: rgb(35, 167, 59);
+}

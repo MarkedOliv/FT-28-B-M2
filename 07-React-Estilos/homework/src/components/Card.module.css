@@ -1,0 +1,38 @@
+.firstCon{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.title{
+    align-self: flex-start;
+    font-size: 40px;
+    justify-self: center;
+    margin-right: 20px;
+}
+
+.xButton{
+    font-weight: bold;
+    height: 30px;
+    margin-left: 20px;
+    width: 30px;
+}
+
+.xButton:hover{
+    background-color: rgb(214, 60, 60);
+    cursor: pointer;
+}
+
+.divContainer{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+
+.temp{
+    font-weight: bold;
+    margin: 5px;
+    text-align: center;
+}
