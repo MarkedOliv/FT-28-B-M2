@@ -1,0 +1,11 @@
+#logoHenry {
+  margin-right: 20px;
+}
+
+header {
+  align-items: center;
+  background-color: rgb(66, 121, 66);
+  color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+}

@@ -1,0 +1,18 @@
+input{
+    border-radius: 8px;
+    border: 1px solid rgba(183, 183, 183, 0.728);
+    padding: 4px;
+}
+
+Button{
+    background-color:rgb(35, 167, 59);
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+    padding:4px 8px;
+    text-align: center;
+}
+Button:hover{
+    background-color: white;
+    color: rgb(35, 167, 59);
+}
